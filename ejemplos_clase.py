@@ -175,7 +175,7 @@ def consola():
 
 if __name__ == '__main__':
     print("Bienvenidos a otra clase de Inove con Python")
-    #numbers()
+    numbers()
     #strings()
     #consola()
 
